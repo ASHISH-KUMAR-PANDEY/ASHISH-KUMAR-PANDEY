@@ -4,7 +4,7 @@
 I am **Ashish**, a data guy whos is interested in 0 to 1 journey of products, knows some music and has a knack for problem solving.
 <h3>:raised_hand:About Me:</h3>
 
-- 🔭 Derived business solutions using data @ [**ZS**](https://www.zs.com/). Find my resume [**here**]()
+- 🔭 Derived business solutions using data @ [**ZS**](https://www.zs.com/). Find my resume [**here**](https://drive.google.com/file/d/1LDvyFbqC2Jn8yZhqF8JH_pD2VwICoOmt/view?usp=sharing)
 - 🌱 I’m currently learning **Product-101**.
 - 👯 I’m looking to collaborate on **story telling** for products.
 - 💬 Ask me about **Data and Problem solving**.
