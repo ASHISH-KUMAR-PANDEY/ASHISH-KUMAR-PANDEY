@@ -1,4 +1,3 @@
-
 <h1>:wave: Hi there </h1>
 
 I am **Ashish**, a data guy whos is interested in 0 to 1 journey of products, knows some music and has a knack for problem solving.
