@@ -16,7 +16,7 @@ I am **Ashish**, a data guy whos is interested in 0 to 1 journey of products, kn
 - **Food4Foodies** - food app catering college students. [More Here](https://github.com/ASHISH-KUMAR-PANDEY/Food-App)
 
 <h3> 🤝🏻 Lets Connect </h3>
-
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 &nbsp; <a href="https://www.linkedin.com/in/ashish-pandey-15042000/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ashishkumarpandey2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
