@@ -1,22 +1,25 @@
-<h1>:wave: Hi there </h1>
+# Hi, I am Ashish Pandey :)
 
-I am **Ashish**, a data guy whos is interested in 0 to 1 journey of products, knows some music and has a knack for problem solving.
-<h3>:raised_hand:About Me:</h3>
+I work with a consumer startup, build small products for everyday problems, and write about what I’m learning.
 
-- 🔭 Derived business solutions using data @ [**ZS**](https://www.zs.com/). Find my resume [**here**](https://drive.google.com/file/d/1LDvyFbqC2Jn8yZhqF8JH_pD2VwICoOmt/view?usp=sharing)
-- 🌱 I’m currently learning **Product-101**.
-- 👯 I’m looking to collaborate on **story telling** for products.
-- 💬 Ask me about **Data and Problem solving**.
+I also like to lift, run, and cook. All three made it into [The Long Rep](https://www.ashishknows.life/), my papercraft portfolio. [Explore the source](https://github.com/ASHISH-KUMAR-PANDEY/ashishknows-life).
 
----
+## Work
 
-<h3>👷Projects:</h3>
+At STAGE, I build streaming products that help people find stories they want to watch and give them a reason to come back. My work spans growth, AI-native experiences, lifecycle and retention, and content discovery.
 
-- **Doctor Green** - System using image recognition for disease detection.
-- **Food4Foodies** - food app catering college students. [More Here](https://github.com/ASHISH-KUMAR-PANDEY/Food-App)
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300'>
-<h3> 🤝🏻 Lets Connect </h3>
+[View my work](https://www.ashishknows.life/#work) · [Résumé](https://drive.google.com/file/d/1PZpfttlCjkLuF0fr5GtljJQ8x8BJUtX9/view?usp=sharing)
 
-&nbsp; <a href="https://www.linkedin.com/in/ashish-pandey-15042000/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:ashishkumarpandey2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+## Side projects
+
+- [**Stocker**](https://stocker.buzz/). Tinder, but for stocks. Swipe through companies and teach the feed what catches your eye.
+- [**Lidride**](https://www.ashishknows.life/#lidride). Close laptop. Cab booked. Shutting my laptop at office closing time triggers a ride home.
+- [**Soundrift**](https://github.com/ASHISH-KUMAR-PANDEY/soundrift). Spotify Wrapped, but for your mood. See what changes in your listening say about how your mood shifted over time.
+
+## Writing
+
+I co-wrote [**Beyond the Screen**](https://ott-report.super.site/) with Adnan Shamim. It looks at what shapes Indian streaming, from why a show gets a second season to how algorithms and economics influence what we watch.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ashish-pandey-15042000/) · [Email](mailto:ashishkumarpandey2000@gmail.com)
